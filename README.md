@@ -14,4 +14,4 @@ Na linku ispod se nalazi apk file. Nakon što instalirate aplikaciju na svoj tel
 	[Link](https://drive.google.com/drive/u/1/folders/1K7_yBrE7C3LUW67ORP0sf0SRI7TRebmE)
 
 ### Slika:
-(![Tudor_Rose](https://github.com/user-attachments/assets/37ed1436-8551-4592-a44f-f93d631a6524)
+![Tudor_Rose](https://github.com/user-attachments/assets/37ed1436-8551-4592-a44f-f93d631a6524)
